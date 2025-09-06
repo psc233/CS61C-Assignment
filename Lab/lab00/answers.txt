@@ -1,4 +1,4 @@
-1.
-2.
-3.
-4.
+1.grep -r "keyword" /path/to/search/
+2.ps ax
+3.kill [SIGNAL] <PID>  // pkill [SIGNAL] <process_name>
+4.diff [options] file1 file2
